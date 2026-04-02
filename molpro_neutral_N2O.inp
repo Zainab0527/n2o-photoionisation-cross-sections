@@ -1,0 +1,26 @@
+***,N2O_22222222222_eq
+print,orbitals,civector,basis
+angstrom,
+geometry={
+N
+N2, N, dist_NN
+O, N2, dist_NO, N, 180.0
+}
+basis=aug-cc-pVQZ
+dist_NN=1.13164231
+dist_NO=1.18840001
+
+{hf,
+orbprint,2
+wf, nelec=22, symmetry=1, spin=0
+occ, 7,2,2
+}
+hf = energy
+
+moldenname='hf_N2O_22222222222'
+put,molden,$moldenname.molden;
+
+{table,hf;
+save,HF_N2O_22222222222.dat}
+
+—--
