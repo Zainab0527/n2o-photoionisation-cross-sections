@@ -3,7 +3,7 @@
 
 Code repository for the MSci Physics project report:
 **"Core-Level Photoionisation Cross-Sections of N2O: Shape Resonances from a 
-Hartree–Fock Single-Centre Expansion Approach"**
+Hartree-Fock Single-Centre Expansion Approach"**
 
 Zainab Sidat, University College London, 2026  
 Supervisor: Prof Agapi Emmanouilidou
