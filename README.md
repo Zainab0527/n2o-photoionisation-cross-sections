@@ -6,7 +6,7 @@ Code repository for the MSci Physics project report:
 Hartree–Fock Single-Centre Expansion Approach"**
 
 Zainab Sidat, University College London, 2026  
-Supervisor: Dr Agapi Emmanouilidou
+Supervisor: Prof Agapi Emmanouilidou
 
 ---
 
@@ -36,8 +36,7 @@ theoretical data of Schmidbauer et al. (1991).
 ## Notes
 
 The continuum wavefunctions, dipole matrix elements, and 
-cross-section data were computed by Zixu Yang (PhD student, 
-UCL) using the single-centre expansion code. These calculations 
+cross-section data were computed using the single-centre expansion code. These calculations 
 are not included in this repository.
 
 Literature data for comparison plots were digitised from 
